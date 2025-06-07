@@ -1,7 +1,7 @@
 
 # 📂 InternUp Capstone Solution Reference
 
-Welcome to the Shawn Wang Data & Analysis portfolio! This repository serves as a central navigation hub for all of my interactive dashboards, visualizers, and research reports. Click on any project below to explore its code, documentation, and interactive demo.
+Welcome to InternUp's Capstone Solution Reference Catalog! Click on any project below to explore its code, documentation, and interactive demo.
 
 ---
 
@@ -37,6 +37,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 streamlit run app.py
 ````
+**Access the Page:**
+[H1B Visa Analysis Dashboard (GitHub)](https://github.com/ShouzhiWang/H1B-Data-Analysis)
+
+
 
 ---
 
@@ -61,6 +65,10 @@ cd oews-visualizer
 pip install streamlit pandas plotly
 streamlit run app.py
 ```
+
+**Access the Page:**
+[OEWS Visualizer (GitHub)](https://github.com/ShouzhiWang/OEWS-Visualizer)
+
 
 ---
 
@@ -87,10 +95,8 @@ A comprehensive market‐landscape report (PDF) analyzing the global AI-Psycholo
 
 ### 📝 License
 
-All projects are released under the MIT License. See [LICENSE](LICENSE) for details.
+All projects are released under the MIT License. See LICENSE page for respective projects for details.
 
 ---
 
-*Created & maintained by Shawn Wang — 2025*
-
-
+*Created by Shawn Wang — 2025*
