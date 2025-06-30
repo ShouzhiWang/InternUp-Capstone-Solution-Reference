@@ -88,8 +88,30 @@ A comprehensive market‐landscape report (PDF) analyzing the global AI-Psycholo
 7. Appendix: Glossary, Data Sources & Assumptions
 
 **Access the Report:**
-[Download AI-Psychology & AI-CBT Report (PDF)](/docs/Cap23.pdf)
+[Download AI-Psychology & AI-CBT Report (PDF)](/docs/InternUp Capstone 23.pdf)
 
+
+---
+
+## 📘 Solopreneur Market Landscape Analysis
+
+**Title:**
+**The “Solopreneur” Success Equation: Decoding the DNA of Thriving One-Person Companies**
+
+
+**Overview:**
+This strategic report offers a comprehensive, data-backed look at the U.S. solopreneur economy, which now comprises over 80% of all small businesses. The document breaks down the landscape, dominant sectors, success archetypes, and operational playbooks for building scalable solo ventures.
+
+**What's Inside:**
+
+* Solopreneur market size, demographics, and motivation splits (Strategists vs. Survivalists)
+* Industry benchmarks, revenue breakdowns, and success principles
+* The 4 Operator Archetypes: Specialist, Creator, Maker, and Operator
+* Common pitfalls and the DNA of high-performing solopreneurs
+* A practical 90-day launch roadmap and tech stack guide for new solopreneurs
+
+**Download the Report:**
+[📄 Solopreneur Capstone Report (PDF)](/docs/InternUp Capstone 54.pdf)
 
 ---
 
